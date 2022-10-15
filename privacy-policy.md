@@ -25,7 +25,7 @@ We have included links on this app for your use and reference. We are not respon
 
 ## Security
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We also devoted to always be align with the current state-of-the-art Security measures in order to acieve strong secuirty
+The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We also devoted to always be aligned with the current state-of-the-art Security measures in order to acieve strong secuirty
 
 
 ## Changes To This Privacy Policy
