@@ -9,8 +9,8 @@ This app track basic information about their users. This information includes, b
 
 More Specifically:
 
-- ** Accounts: ** If you create an account, you must provide us with some information so that we can provide our services to you. This includes a bio; a username (for example, user01); a password; an email address; a phone number; a date of birth; your display language;. You can also choose to share your location in your profile and posts. Your profile information, which includes your bio and username, is always public. And remember, you can create multiple Entangle accounts, for example, to express different parts of your identity, professional or otherwise. 
-- ** Payment Information: ** In order to purchase ads or other in-apps transactions and to receive payment, you will need to provide us payment information, including your credit or debit card number, card expiration date, CVV code, and billing address. Note that cuurently, payments are processed through a Third-Party Software Kit Stripe.
+- **Accounts:** If you create an account, you must provide us with some information so that we can provide our services to you. This includes a bio; a username (for example, user01); a password; an email address; a phone number; a date of birth; your display language;. You can also choose to share your location in your profile and posts. Your profile information, which includes your bio and username, is always public. And remember, you can create multiple Entangle accounts, for example, to express different parts of your identity, professional or otherwise. 
+- **Payment Information:** In order to purchase ads or other in-apps transactions and to receive payment, you will need to provide us payment information, including your credit or debit card number, card expiration date, CVV code, and billing address. Note that cuurently, payments are processed through a Third-Party Software Kit Stripe.
 
 
 ## Cookies
