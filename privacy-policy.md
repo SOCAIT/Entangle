@@ -43,3 +43,10 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 ## Contact Information
 
 For any questions or concerns regarding the privacy policy, please send us an email to socait.zero@gmail.com.
+
+## Use of data
+
+The purpose of collecting data is to provide you with content of the app and to gradually improve its inner workings. We also make use of your data to provide more personalised experience by showing you the right content and ads that are more closer to your preferences. We collect personal info about you in order to be discovered by other users and to enhance security.
+
+
+
